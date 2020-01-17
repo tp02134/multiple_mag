@@ -1,4 +1,6 @@
 # Multiple_Mag
+
+## Use multiple magnetic sensor using
 - Arduino IDE
 - SparkFun SAMD21 Dev Breakout
 - MPU9250
