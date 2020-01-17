@@ -5,7 +5,7 @@
 - SPI communication
 - ROS
 
-## SPI communication 
+## SPI communication circuit
 - https://raduino.tistory.com/11
 
 ## Arduino zero sync problem
