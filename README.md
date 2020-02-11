@@ -1,4 +1,4 @@
-# Use multiple magnetic sensor using
+# Use multiple MPU9250 using
 - Arduino IDE
 - SparkFun SAMD21 Dev Breakout
 - MPU9250
